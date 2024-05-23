@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		104812FF2BFF1AD0008597FC /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104812FE2BFF1AD0008597FC /* ProfileView.swift */; };
 		108658EE2BFDC6340061B561 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108658ED2BFDC6340061B561 /* SettingsView.swift */; };
 		10A1D4792BF3369D007DD7E3 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A1D4782BF3369D007DD7E3 /* SwiftfulSourceControlApp.swift */; };
 		10A1D47B2BF3369D007DD7E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A1D47A2BF3369D007DD7E3 /* ContentView.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		104812FE2BFF1AD0008597FC /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		108658ED2BFDC6340061B561 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		10A1D4752BF3369D007DD7E3 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10A1D4782BF3369D007DD7E3 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				10A1D4782BF3369D007DD7E3 /* SwiftfulSourceControlApp.swift */,
 				10A1D47A2BF3369D007DD7E3 /* ContentView.swift */,
-				104812FE2BFF1AD0008597FC /* ProfileView.swift */,
 				10B6C0722BF5CF99004C962D /* HomeView.swift */,
 				108658ED2BFDC6340061B561 /* SettingsView.swift */,
 				10A1D47C2BF3369E007DD7E3 /* Assets.xcassets */,
@@ -150,7 +147,6 @@
 			files = (
 				10B6C0732BF5CF99004C962D /* HomeView.swift in Sources */,
 				108658EE2BFDC6340061B561 /* SettingsView.swift in Sources */,
-				104812FF2BFF1AD0008597FC /* ProfileView.swift in Sources */,
 				10A1D47B2BF3369D007DD7E3 /* ContentView.swift in Sources */,
 				10A1D4792BF3369D007DD7E3 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
